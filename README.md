@@ -1,3 +1,23 @@
+Here are the prerequisites for working on this project:
+
+1. **AWS Account:** You'll need an AWS account to access and use DynamoDB. Ensure that you have the necessary permissions to create and manage DynamoDB tables, and obtain the Access Key ID and Secret Access Key for programmatic access.
+
+2. **Node.js:** Ensure Node.js is installed on your machine. You can download it from the official [Node.js website](https://nodejs.org/).
+
+3. **Text Editor/IDE:** Choose a text editor or an Integrated Development Environment (IDE) to write and edit your code. Some popular choices include Visual Studio Code, Sublime Text, Atom, or WebStorm.
+
+4. **Terminal/Command Line:** Familiarize yourself with using the terminal or command line interface to run commands, install dependencies, and start the Node.js server.
+
+5. **Git (Optional):** Git is a version control system that can be used to clone the project repository. If you're collaborating or planning to contribute to a repository, Git will be helpful.
+
+6. **AWS CLI (Optional):** While not mandatory, having the AWS Command Line Interface installed can be beneficial for configuring AWS credentials and accessing AWS resources from the command line.
+
+Make sure you have your AWS credentials (Access Key ID and Secret Access Key) handy . You can find how to get the AWS Secret Access Key here: 
+
+Additionally, understanding REST APIs and basic knowledge of JavaScript, particularly using Node.js and Express for server-side development, would be beneficial for working on this project.
+
+Project: 
+
 # Node.js RESTful API for CRUD Operations with DynamoDB
 
 This project sets up a RESTful API using Node.js to perform CRUD (Create, Read, Update, Delete) operations on a DynamoDB table.
