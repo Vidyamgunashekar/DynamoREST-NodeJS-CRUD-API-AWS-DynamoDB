@@ -12,7 +12,7 @@ Here are the prerequisites for working on this project:
 
 6. **AWS CLI (Optional):** While not mandatory, having the AWS Command Line Interface installed can be beneficial for configuring AWS credentials and accessing AWS resources from the command line.
 
-Make sure you have your AWS credentials (Access Key ID and Secret Access Key) handy . You can find how to get the AWS Secret Access Key here: 
+Make sure you have your AWS credentials (Access Key ID and Secret Access Key) handy . You can find how to get the AWS Secret Access Key here: https://medium.com/@vidyamuniswamygunashekar/how-to-get-the-secret-access-key-from-aws-account-0aac69c387cf
 
 Additionally, understanding REST APIs and basic knowledge of JavaScript, particularly using Node.js and Express for server-side development, would be beneficial for working on this project.
 
